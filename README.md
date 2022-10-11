@@ -6,7 +6,7 @@
 
 ## Description of application for deployment:
 
-- Application: Wordpress
+- Application: WordPress
 
 - Programming language: PHP
 
@@ -23,10 +23,10 @@
 Kubernetes
 
 - Automation tools:
-Github action, Argo CD 
+GitHub's action, Argo CD 
 
 - SCM:
-Github
+GitHub
 
 - Notification:
 Slack
@@ -35,11 +35,11 @@ Slack
  Docker, Helm
 
 ## CI/CD description:
-After pushing to the master branch, Git Action builds and pushes the image to Docker HUB, creates a HELM diagram package. ArgoCD deploys applikation in k8s kluster.
+After pushing to the master branch, Git Action builds and pushes the image to Docker HUB, creates a HELM diagram package. Argo CD deploys application in k8s cluster.
 
 ## Rollback flow description and implementation:
 
-Version selection in ArgoCD
+Version selection in Argo CD
 
 
 ## Links:
