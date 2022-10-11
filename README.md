@@ -10,7 +10,7 @@
 
 - Programming language: PHP
 
-- DB: MySQL
+- DB: MySQL 
 
 - Link on git repository: https://github.com/docker-library/wordpress
 
