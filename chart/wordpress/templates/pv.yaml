@@ -13,5 +13,5 @@ spec:
     - ReadWriteMany
   persistentVolumeReclaimPolicy: Recycle
   nfs:
-    path: /mnt/IT-Academy/nfs-data/sa2-21-22/stepanenko/project/
+    path: /mnt/IT-Academy/nfs-data/sa2-21-22/stepanenko/project/wp-content/
     server: 192.168.37.105
