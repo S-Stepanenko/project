@@ -16,7 +16,6 @@
 
 ## Pipeline
 
-
 ## Technologies which were used in project:
 
 - Orchestration: 
